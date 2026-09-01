@@ -1,0 +1,1002 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_id": 637,
+    "product_id": 2,
+    "quantity": 3,
+    "total_naira": 962.54,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_id": 650,
+    "product_id": 14,
+    "quantity": 4,
+    "total_naira": 823.87,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_id": 574,
+    "product_id": 8,
+    "quantity": 2,
+    "total_naira": 1378.19,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer_id": 497,
+    "product_id": 18,
+    "quantity": 4,
+    "total_naira": 2864.54,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_id": 967,
+    "product_id": 9,
+    "quantity": 2,
+    "total_naira": 1172.66,
+    "order_date": "2026-08-01",
+    "status": "cancelled",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer_id": 486,
+    "product_id": 3,
+    "quantity": 5,
+    "total_naira": 1831.87,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1007",
+    "customer_id": 701,
+    "product_id": 20,
+    "quantity": 1,
+    "total_naira": 881.04,
+    "order_date": "2026-08-02",
+    "status": "pending",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1008",
+    "customer_id": 115,
+    "product_id": 7,
+    "quantity": 4,
+    "total_naira": 5000.53,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1009",
+    "customer_id": 348,
+    "product_id": 7,
+    "quantity": 1,
+    "total_naira": 1379.25,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1010",
+    "customer_id": 389,
+    "product_id": 7,
+    "quantity": 4,
+    "total_naira": 5678.52,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1011",
+    "customer_id": 625,
+    "product_id": 15,
+    "quantity": 5,
+    "total_naira": 3671.67,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1012",
+    "customer_id": 959,
+    "product_id": 15,
+    "quantity": 1,
+    "total_naira": 754.37,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1013",
+    "customer_id": 326,
+    "product_id": 7,
+    "quantity": 3,
+    "total_naira": 3825.3,
+    "order_date": "2026-08-01",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1014",
+    "customer_id": 527,
+    "product_id": 1,
+    "quantity": 3,
+    "total_naira": 932.96,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1015",
+    "customer_id": 351,
+    "product_id": 5,
+    "quantity": 2,
+    "total_naira": 426.39,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1016",
+    "customer_id": 840,
+    "product_id": 18,
+    "quantity": 3,
+    "total_naira": 1892.64,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1017",
+    "customer_id": 837,
+    "product_id": 15,
+    "quantity": 2,
+    "total_naira": 1490.52,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1018",
+    "customer_id": 160,
+    "product_id": 16,
+    "quantity": 2,
+    "total_naira": 1136.04,
+    "order_date": "2026-08-05",
+    "status": "cancelled",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1019",
+    "customer_id": 106,
+    "product_id": 2,
+    "quantity": 1,
+    "total_naira": 321.04,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1020",
+    "customer_id": 617,
+    "product_id": 5,
+    "quantity": 2,
+    "total_naira": 405.44,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1021",
+    "customer_id": 594,
+    "product_id": 12,
+    "quantity": 1,
+    "total_naira": 505.61,
+    "order_date": "2026-08-06",
+    "status": "cancelled",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1022",
+    "customer_id": 642,
+    "product_id": 1,
+    "quantity": 1,
+    "total_naira": 309.8,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1023",
+    "customer_id": 540,
+    "product_id": 18,
+    "quantity": 3,
+    "total_naira": 1806.17,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1024",
+    "customer_id": 639,
+    "product_id": 4,
+    "quantity": 1,
+    "total_naira": 165.73,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1025",
+    "customer_id": 515,
+    "product_id": 12,
+    "quantity": 3,
+    "total_naira": 1564.63,
+    "order_date": "2026-08-01",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1026",
+    "customer_id": 947,
+    "product_id": 19,
+    "quantity": 2,
+    "total_naira": 2156.48,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1027",
+    "customer_id": 157,
+    "product_id": 2,
+    "quantity": 1,
+    "total_naira": 291.89,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1028",
+    "customer_id": 439,
+    "product_id": 6,
+    "quantity": 1,
+    "total_naira": 879.98,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1029",
+    "customer_id": 988,
+    "product_id": 4,
+    "quantity": 5,
+    "total_naira": 887.87,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1030",
+    "customer_id": 387,
+    "product_id": 16,
+    "quantity": 3,
+    "total_naira": 1453.41,
+    "order_date": "2026-08-01",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1031",
+    "customer_id": 312,
+    "product_id": 19,
+    "quantity": 1,
+    "total_naira": 932.28,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1032",
+    "customer_id": 346,
+    "product_id": 5,
+    "quantity": 4,
+    "total_naira": 948.62,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1033",
+    "customer_id": 909,
+    "product_id": 13,
+    "quantity": 5,
+    "total_naira": 9597.11,
+    "order_date": "2026-08-07",
+    "status": "pending",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1034",
+    "customer_id": 177,
+    "product_id": 17,
+    "quantity": 3,
+    "total_naira": 3335.44,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1035",
+    "customer_id": 434,
+    "product_id": 20,
+    "quantity": 5,
+    "total_naira": 4466.14,
+    "order_date": "2026-08-04",
+    "status": "cancelled",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1036",
+    "customer_id": 484,
+    "product_id": 9,
+    "quantity": 4,
+    "total_naira": 2415.87,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1037",
+    "customer_id": 402,
+    "product_id": 6,
+    "quantity": 5,
+    "total_naira": 4528.54,
+    "order_date": "2026-08-01",
+    "status": "pending",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1038",
+    "customer_id": 749,
+    "product_id": 3,
+    "quantity": 1,
+    "total_naira": 337.15,
+    "order_date": "2026-08-04",
+    "status": "pending",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1039",
+    "customer_id": 415,
+    "product_id": 13,
+    "quantity": 3,
+    "total_naira": 5789.56,
+    "order_date": "2026-08-01",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1040",
+    "customer_id": 559,
+    "product_id": 12,
+    "quantity": 3,
+    "total_naira": 1377.6,
+    "order_date": "2026-08-01",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1041",
+    "customer_id": 667,
+    "product_id": 18,
+    "quantity": 5,
+    "total_naira": 3244.83,
+    "order_date": "2026-08-01",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1042",
+    "customer_id": 398,
+    "product_id": 20,
+    "quantity": 5,
+    "total_naira": 4338.33,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1043",
+    "customer_id": 348,
+    "product_id": 13,
+    "quantity": 1,
+    "total_naira": 2060.94,
+    "order_date": "2026-08-05",
+    "status": "cancelled",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1044",
+    "customer_id": 408,
+    "product_id": 17,
+    "quantity": 2,
+    "total_naira": 2501.54,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1045",
+    "customer_id": 406,
+    "product_id": 16,
+    "quantity": 2,
+    "total_naira": 972.15,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1046",
+    "customer_id": 607,
+    "product_id": 3,
+    "quantity": 3,
+    "total_naira": 1008.33,
+    "order_date": "2026-08-02",
+    "status": "pending",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1047",
+    "customer_id": 505,
+    "product_id": 20,
+    "quantity": 2,
+    "total_naira": 1637.36,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1048",
+    "customer_id": 540,
+    "product_id": 20,
+    "quantity": 4,
+    "total_naira": 3482.45,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1049",
+    "customer_id": 421,
+    "product_id": 5,
+    "quantity": 3,
+    "total_naira": 638.48,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1050",
+    "customer_id": 689,
+    "product_id": 13,
+    "quantity": 3,
+    "total_naira": 5714.76,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1051",
+    "customer_id": 216,
+    "product_id": 11,
+    "quantity": 4,
+    "total_naira": 3294.91,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1052",
+    "customer_id": 663,
+    "product_id": 7,
+    "quantity": 5,
+    "total_naira": 7196.72,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1053",
+    "customer_id": 170,
+    "product_id": 15,
+    "quantity": 2,
+    "total_naira": 1414.0,
+    "order_date": "2026-08-03",
+    "status": "pending",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1054",
+    "customer_id": 257,
+    "product_id": 16,
+    "quantity": 2,
+    "total_naira": 1081.6,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1055",
+    "customer_id": 510,
+    "product_id": 13,
+    "quantity": 1,
+    "total_naira": 1961.66,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1056",
+    "customer_id": 818,
+    "product_id": 17,
+    "quantity": 4,
+    "total_naira": 4878.41,
+    "order_date": "2026-08-07",
+    "status": "cancelled",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1057",
+    "customer_id": 463,
+    "product_id": 20,
+    "quantity": 1,
+    "total_naira": 766.41,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1058",
+    "customer_id": 509,
+    "product_id": 20,
+    "quantity": 1,
+    "total_naira": 834.48,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1059",
+    "customer_id": 864,
+    "product_id": 14,
+    "quantity": 1,
+    "total_naira": 200.42,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1060",
+    "customer_id": 500,
+    "product_id": 18,
+    "quantity": 5,
+    "total_naira": 3412.6,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1061",
+    "customer_id": 402,
+    "product_id": 19,
+    "quantity": 5,
+    "total_naira": 4635.67,
+    "order_date": "2026-08-01",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1062",
+    "customer_id": 419,
+    "product_id": 3,
+    "quantity": 1,
+    "total_naira": 373.2,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1063",
+    "customer_id": 548,
+    "product_id": 15,
+    "quantity": 2,
+    "total_naira": 1435.49,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1064",
+    "customer_id": 123,
+    "product_id": 11,
+    "quantity": 1,
+    "total_naira": 826.84,
+    "order_date": "2026-08-07",
+    "status": "pending",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1065",
+    "customer_id": 278,
+    "product_id": 4,
+    "quantity": 2,
+    "total_naira": 355.8,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1066",
+    "customer_id": 514,
+    "product_id": 6,
+    "quantity": 3,
+    "total_naira": 2668.73,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1067",
+    "customer_id": 302,
+    "product_id": 6,
+    "quantity": 4,
+    "total_naira": 3453.17,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1068",
+    "customer_id": 385,
+    "product_id": 19,
+    "quantity": 4,
+    "total_naira": 3879.96,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1069",
+    "customer_id": 433,
+    "product_id": 19,
+    "quantity": 1,
+    "total_naira": 1043.91,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1070",
+    "customer_id": 754,
+    "product_id": 15,
+    "quantity": 1,
+    "total_naira": 684.11,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1071",
+    "customer_id": 460,
+    "product_id": 20,
+    "quantity": 4,
+    "total_naira": 3366.79,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1072",
+    "customer_id": 729,
+    "product_id": 20,
+    "quantity": 2,
+    "total_naira": 1744.12,
+    "order_date": "2026-08-06",
+    "status": "pending",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1073",
+    "customer_id": 287,
+    "product_id": 3,
+    "quantity": 2,
+    "total_naira": 680.09,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1074",
+    "customer_id": 492,
+    "product_id": 5,
+    "quantity": 5,
+    "total_naira": 1077.69,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1075",
+    "customer_id": 277,
+    "product_id": 6,
+    "quantity": 4,
+    "total_naira": 3606.72,
+    "order_date": "2026-08-06",
+    "status": "cancelled",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1076",
+    "customer_id": 561,
+    "product_id": 6,
+    "quantity": 4,
+    "total_naira": 3384.85,
+    "order_date": "2026-08-02",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1077",
+    "customer_id": 934,
+    "product_id": 2,
+    "quantity": 3,
+    "total_naira": 964.2,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1078",
+    "customer_id": 525,
+    "product_id": 18,
+    "quantity": 5,
+    "total_naira": 3391.84,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1079",
+    "customer_id": 325,
+    "product_id": 16,
+    "quantity": 2,
+    "total_naira": 975.87,
+    "order_date": "2026-08-01",
+    "status": "pending",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1080",
+    "customer_id": 568,
+    "product_id": 2,
+    "quantity": 3,
+    "total_naira": 846.42,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1081",
+    "customer_id": 893,
+    "product_id": 16,
+    "quantity": 5,
+    "total_naira": 2645.19,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1082",
+    "customer_id": 551,
+    "product_id": 12,
+    "quantity": 5,
+    "total_naira": 2620.17,
+    "order_date": "2026-08-01",
+    "status": "pending",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1083",
+    "customer_id": 353,
+    "product_id": 7,
+    "quantity": 4,
+    "total_naira": 4898.32,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1084",
+    "customer_id": 549,
+    "product_id": 2,
+    "quantity": 4,
+    "total_naira": 1136.77,
+    "order_date": "2026-08-07",
+    "status": "pending",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1085",
+    "customer_id": 981,
+    "product_id": 8,
+    "quantity": 2,
+    "total_naira": 1510.78,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1086",
+    "customer_id": 311,
+    "product_id": 14,
+    "quantity": 2,
+    "total_naira": 449.29,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1087",
+    "customer_id": 431,
+    "product_id": 19,
+    "quantity": 3,
+    "total_naira": 2987.43,
+    "order_date": "2026-08-05",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1088",
+    "customer_id": 795,
+    "product_id": 10,
+    "quantity": 5,
+    "total_naira": 2212.28,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1089",
+    "customer_id": 229,
+    "product_id": 5,
+    "quantity": 4,
+    "total_naira": 947.0,
+    "order_date": "2026-08-03",
+    "status": "pending",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1090",
+    "customer_id": 963,
+    "product_id": 8,
+    "quantity": 2,
+    "total_naira": 1484.96,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1091",
+    "customer_id": 484,
+    "product_id": 16,
+    "quantity": 2,
+    "total_naira": 1070.87,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1092",
+    "customer_id": 998,
+    "product_id": 3,
+    "quantity": 1,
+    "total_naira": 345.78,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1093",
+    "customer_id": 967,
+    "product_id": 15,
+    "quantity": 4,
+    "total_naira": 2770.19,
+    "order_date": "2026-08-01",
+    "status": "pending",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1094",
+    "customer_id": 323,
+    "product_id": 15,
+    "quantity": 3,
+    "total_naira": 2281.54,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Surulere"
+  },
+  {
+    "order_id": "ORD-1095",
+    "customer_id": 660,
+    "product_id": 7,
+    "quantity": 4,
+    "total_naira": 5057.8,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Yaba"
+  },
+  {
+    "order_id": "ORD-1096",
+    "customer_id": 798,
+    "product_id": 5,
+    "quantity": 5,
+    "total_naira": 1170.48,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Ikeja"
+  },
+  {
+    "order_id": "ORD-1097",
+    "customer_id": 227,
+    "product_id": 2,
+    "quantity": 1,
+    "total_naira": 303.81,
+    "order_date": "2026-08-07",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1098",
+    "customer_id": 805,
+    "product_id": 15,
+    "quantity": 4,
+    "total_naira": 2600.35,
+    "order_date": "2026-08-04",
+    "status": "delivered",
+    "branch": "Victoria Island"
+  },
+  {
+    "order_id": "ORD-1099",
+    "customer_id": 469,
+    "product_id": 10,
+    "quantity": 2,
+    "total_naira": 986.9,
+    "order_date": "2026-08-03",
+    "status": "delivered",
+    "branch": "Lekki"
+  },
+  {
+    "order_id": "ORD-1100",
+    "customer_id": 505,
+    "product_id": 3,
+    "quantity": 3,
+    "total_naira": 1087.59,
+    "order_date": "2026-08-06",
+    "status": "delivered",
+    "branch": "Lekki"
+  }
+]
